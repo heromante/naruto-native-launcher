@@ -1,8 +1,10 @@
 # Naruto Native Launcher
 
-O pacote público contém apenas o código do inicializador. Consulte [PRIVACY.md](PRIVACY.md) antes de publicar. O workspace de desenvolvimento e seus diagnósticos são locais.
+Inicializador e pesquisa de um port nativo de Naruto Shippuden: Ultimate Ninja 5 para **macOS em Apple Silicon**.
 
-Inicializador local para o port de Ultimate Ninja 5, começando pelo macOS Apple Silicon. Seleciona a ISO do usuário, confere sua identidade e abre um motor nativo compatível. Nenhum arquivo é enviado pela internet.
+Open-source launcher and research notes for a native Ultimate Ninja 5 port on macOS Apple Silicon. The public build opens the launcher and inspects a disc image. Playable builds require a game engine generated locally from the player's own disc image.
+
+Veja as [notas de pesquisa e como contribuir](RESEARCH.md) para medições de FPS, PAL e NTSC, estabilidade e uso de memória. O pacote público reúne o código do inicializador e a documentação. Consulte [PRIVACY.md](PRIVACY.md) ao compartilhar diagnósticos.
 
 ## Estado atual
 

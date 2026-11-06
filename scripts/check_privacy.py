@@ -4,7 +4,7 @@ from pathlib import Path
 import argparse,json,re,subprocess
 
 PUBLIC_FILES=(
- '.gitignore','LICENSE','README.md','PRIVACY.md',
+ '.gitignore','LICENSE','README.md','PRIVACY.md','RESEARCH.md',
  'Sources/Core.swift','Sources/main.swift','scripts/build.py',
  'scripts/check_privacy.py','scripts/export_source.py',
  'tests/test_import.py','tests/test_privacy.py',
